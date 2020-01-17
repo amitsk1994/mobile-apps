@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Homework04</string>
+    <string name="addMovie_btn">Add Movie</string>
+    <string name="edit_btn">Edit</string>
+    <string name="deleteMovie_btn">Delete Movie</string>
+    <string name="listByYear_btn">Show List by Year</string>
+    <string name="listByRating_btn">Show List by Rating</string>
+    <string name="editText_movieName">Name</string>
+    <string name="Description_label">Description: </string>
+    <string name="genre_textView">Genre: </string>
+    <string name="rating_textView">Rating: </string>
+    <string name="year_label">Year: </string>
+    <string name="IMDB_label">IMDB: </string>
+    <string name="name_label">Rating</string>
+    <string name="saveChanges_label">Save Changes</string>
+    <string name="moviesYear">Movies by Year</string>
+    <string name="moviesRating">Movies by Rating</string>
+    <string name="title">Title: </string>
+    <string name="finish">Finish</string>
+    <string-array name="movieGenreList">
+        <item><font fgcolor="#D3D3D3">Select</font></item>
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Documentary</item>
+        <item>Family</item>
+        <item>Horror</item>
+        <item>Crime</item>
+        <item>Others</item>
+    </string-array>
+</resources>

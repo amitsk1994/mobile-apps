@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="checkout">Checkout</string>
+    <string name="clearPizza">Clear Pizza</string>
+    <string name="addtopping">Add Topping</string>
+    <string name="delivery">Delivery</string>
+
+
+    <string name="app_name">Pizza Store</string>
+    <string name="yourOrder">Your Order</string>
+    <string name="basePrice">Base Price</string>
+    <string name="toppings">Toppings</string>
+    <string name="deliveryCost">Delivery Cost</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="button_finish">Finish</string>
+    <string-array name="items">
+        <item>"Bacon""</item>
+        <item>"Cheese"</item>
+        <item>"Garlic"</item>
+        <item>"Green Pepper"</item>
+        <item>"Mushroom"</item>
+        <item>"Olives"</item>
+        <item>"Onions"</item>
+        <item>"Red peppers"</item>
+
+
+    </string-array>
+</resources>

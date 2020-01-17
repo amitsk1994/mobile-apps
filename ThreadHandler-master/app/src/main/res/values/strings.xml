@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThreadHandler</string>
+    <string name="select">Select Complexity</string>
+    <string name="minimum">Minimum</string>
+    <string name="maximum">Maximum</string>
+    <string name="average">Average</string>
+    <string name="generate">Generate Number Thread Handler</string>
+</resources>

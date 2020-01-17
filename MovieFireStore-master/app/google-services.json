@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351946279029",
+    "firebase_url": "https://movieapplication-d1f11.firebaseio.com",
+    "project_id": "movieapplication-d1f11",
+    "storage_bucket": "movieapplication-d1f11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351946279029:android:55f43a26ea598252ca903c",
+        "android_client_info": {
+          "package_name": "com.example.homework04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351946279029-p26lk3jb9idk7b43t9rcn63su7rducl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_WkXBeiJSOPdQR4kHKC-DtntD2LDXQTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351946279029-p26lk3jb9idk7b43t9rcn63su7rducl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
